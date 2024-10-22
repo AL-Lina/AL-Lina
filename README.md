@@ -4,7 +4,7 @@
 ```swift
 class AL-Lina: UIDeveloper {
  
-  private let fullName = "Alina Sakovskaya"
+  private var fullName = "Alina Sakovskaya"
   private var country = "Republic of Belarus"
   
   var repositories: [Repositories]
